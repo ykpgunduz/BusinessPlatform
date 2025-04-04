@@ -1,0 +1,42 @@
+services:
+  app:
+    container_name: business-app
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: business
+    ports:
+      - "9044:80"
+    volumes:
+      - .:/var/www
+    depends_on:
+      - db
+    networks:
+      - business-network
+    environment:
+      - LC_ALL=tr_TR.UTF-8
+      - LANG=tr_TR.UTF-8
+
+  db:
+    image: mysql:8.0
+    container_name: business-db
+    volumes:
+      - mysql-data:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_HOST: "%"
+      MYSQL_ROOT_PASSWORD: root_password
+      MYSQL_DATABASE: business-db
+      MYSQL_USER: laravel_user
+      MYSQL_PASSWORD: root
+      MYSQL_CHARSET: utf8mb4
+      MYSQL_COLLATION: utf8mb4_unicode_ci
+    ports:
+      - "3306:3306"
+    networks:
+      - business-network
+
+networks:
+  business-network:
+
+volumes:
+  mysql-data:
