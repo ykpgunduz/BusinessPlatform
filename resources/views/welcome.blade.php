@@ -3,7 +3,70 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Malatya Yeşilyurt Spor Haberi - MIAP</title>
+    <title>MAİP - Malatya İş İnsanları Platformu | Malatya'nın İş Dünyası</title>
+    <meta name="description" content="Malatya İş İnsanları Platformu (MAİP) olarak, şehrimizin ve spor kulüplerimizin her zaman yanındayız. Malatya'nın iş dünyasını bir araya getiren platform.">
+    <meta name="keywords" content="MAİP, Malatya, İş İnsanları, Spor, Kulüpler, Destek, Malatya İş Dünyası, Malatya Ekonomi">
+    <meta name="author" content="MAİP">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://maip.org.tr" />
+
+    <link rel="icon" href="https://maip.org.tr/images/maip-favicon.png" type="image/png">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://maip.org.tr/">
+    <meta property="og:title" content="MAİP - Malatya İş İnsanları Platformu">
+    <meta property="og:description" content="Malatya İş İnsanları Platformu (MAİP) olarak, şehrimizin ve spor kulüplerimizin her zaman yanındayız.">
+    <meta property="og:image" content="https://maip.org.tr/images/maip-favicon.png">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://maip.org.tr/">
+    <meta property="twitter:title" content="MAİP - Malatya İş İnsanları Platformu">
+    <meta property="twitter:description" content="Malatya İş İnsanları Platformu (MAİP) olarak, şehrimizin ve spor kulüplerimizin her zaman yanındayız.">
+    <meta property="twitter:image" content="https://maip.org.tr/images/maip-favicon.png">
+
+    <!-- Schema.org markup -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "MAİP - Malatya İş İnsanları Platformu",
+        "url": "https://maip.org.tr",
+        "logo": "https://maip.org.tr/images/maip-favicon.png",
+        "description": "Malatya İş İnsanları Platformu (MAİP) olarak, şehrimizin ve spor kulüplerimizin her zaman yanındayız.",
+        "sameAs": [
+            "https://facebook.com/maip",
+            "https://twitter.com/maip",
+            "https://instagram.com/maip",
+            "https://linkedin.com/company/maip"
+        ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Özköse: Malatya Yeşilyurt Spor Kulübünün şampiyonluğa giden yolunda yanındayız!",
+        "image": "https://image.dha.com.tr/i/dha/75/0x410/67f67e6c204de30e931c1157.jpg",
+        "datePublished": "2025-04-09T17:06:00+03:00",
+        "dateModified": "2025-04-09T17:06:00+03:00",
+        "author": {
+            "@type": "Organization",
+            "name": "MAİP"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "MAİP",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://maip.org.tr/images/maip-favicon.png"
+            }
+        }
+    }
+    </script>
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -54,12 +117,12 @@
             gap: 0.5rem;
         }
 
-        .top-header h1 .miap-logo {
+        .top-header h1 .maip-logo {
             font-size: 2.5rem;
             letter-spacing: 2px;
         }
 
-        .top-header h1 .miap-text {
+        .top-header h1 .maip-text {
             font-size: 1.8rem;
             font-weight: 500;
         }
@@ -149,7 +212,7 @@
             text-align: justify;
         }
 
-        .miap-banner {
+        .maip-banner {
             background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
             color: white;
             padding: 3rem;
@@ -160,7 +223,7 @@
             overflow: hidden;
         }
 
-        .miap-banner::before {
+        .maip-banner::before {
             content: '';
             position: absolute;
             top: 0;
@@ -171,14 +234,14 @@
             background-size: cover;
         }
 
-        .miap-banner h2 {
+        .maip-banner h2 {
             font-size: 2.8rem;
             margin-bottom: 1.5rem;
             font-weight: 700;
             position: relative;
         }
 
-        .miap-banner p {
+        .maip-banner p {
             font-size: 1.3rem;
             opacity: 0.9;
             position: relative;
@@ -226,11 +289,11 @@
                 font-size: 1.8rem;
             }
 
-            .top-header h1 .miap-logo {
+            .top-header h1 .maip-logo {
                 font-size: 2rem;
             }
 
-            .top-header h1 .miap-text {
+            .top-header h1 .maip-text {
                 font-size: 1.4rem;
             }
 
@@ -260,17 +323,17 @@
                 padding: 0 1rem;
             }
 
-            .miap-banner {
+            .maip-banner {
                 padding: 2rem 1.5rem;
                 margin-top: 3rem;
             }
 
-            .miap-banner h2 {
+            .maip-banner h2 {
                 font-size: 1.8rem;
                 margin-bottom: 1rem;
             }
 
-            .miap-banner p {
+            .maip-banner p {
                 font-size: 1.1rem;
                 margin-bottom: 1.5rem;
             }
@@ -289,8 +352,8 @@
 <body>
     <header class="top-header">
         <h1>
-            <span class="miap-logo">MİAP</span>
-            <span class="miap-text">Malatya İş İnsanları Platformu</span>
+            <span class="maip-logo">MAİP</span>
+            <span class="maip-text">Malatya İş İnsanları Platformu</span>
         </h1>
         <p>Çok Yakında Hizmetinizde...</p>
     </header>
@@ -322,8 +385,8 @@
             </div>
         </div>
 
-        <div class="miap-banner">
-            <h2>MİAP Çok Yakında Hizmetinizde!</h2>
+        <div class="maip-banner">
+            <h2>MAİP Çok Yakında Hizmetinizde!</h2>
             <p>Malatya İş İnsanları Platformu olarak, şehrimizin ve spor kulüplerimizin her zaman yanındayız.</p>
             <div class="social-share">
                 <a href="#"><i class="fab fa-facebook"></i></a>
