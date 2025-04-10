@@ -244,11 +244,44 @@
             }
 
             .news-header h1 {
-                font-size: 1.8rem;
+                font-size: 1.5rem;
+                line-height: 1.4;
+                padding: 0 1rem;
+                word-break: break-word;
+            }
+
+            .news-header {
+                margin-bottom: 2rem;
+                padding-bottom: 1.5rem;
+            }
+
+            .news-date {
+                font-size: 0.85rem;
+                padding: 0 1rem;
+            }
+
+            .miap-banner {
+                padding: 2rem 1.5rem;
+                margin-top: 3rem;
             }
 
             .miap-banner h2 {
-                font-size: 2rem;
+                font-size: 1.8rem;
+                margin-bottom: 1rem;
+            }
+
+            .miap-banner p {
+                font-size: 1.1rem;
+                margin-bottom: 1.5rem;
+            }
+
+            .social-share {
+                gap: 0.8rem;
+                margin-top: 1.5rem;
+            }
+
+            .social-share a {
+                font-size: 1.3rem;
             }
         }
     </style>
