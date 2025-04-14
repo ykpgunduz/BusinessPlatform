@@ -360,25 +360,25 @@
 
     <div class="news-container">
         <div class="news-header">
-            <h1>Özköse: Malatya Yeşilyurt Spor Kulübünün şampiyonluğa giden yolunda yanındayız!</h1>
+            <h1>Özköse: Zirai don kayısı bahçelerini vurdu, üreticimizin yanındayız</h1>
             <p class="news-date">
                 <i class="far fa-calendar-alt"></i>
-                09.04.2025 - 17:06 | Son Güncelleme: 09.04.2025 - 17:06
+                12.04.2025 - 23:30 | Son Güncelleme: 12.04.2025 - 23:35
             </p>
         </div>
 
-        <img src="https://image.dha.com.tr/i/dha/75/0x410/67f67e6c204de30e931c1157.jpg" alt="Malatya Yeşilyurt Spor" class="news-image">
+        <div class="video-container" style="width: 100%; max-width: 800px; margin: 2rem auto;">
+            <div class="ratio ratio-16x9">
+                <iframe src="https://www.youtube.com/embed/ouNS2IlCPO4" title="Özköse: Zirai don kayısı bahçelerini vurdu" allowfullscreen style="border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"></iframe>
+            </div>
+        </div>
 
         <div class="news-content">
-            <p>Bölgesel Amatör Lig'de (BAL) şampiyonluk mücadelesi veren Yeşilyurt Spor Kulübü, Malatya'nın futbol için yeni umudu oldu.</p>
+            <p>Malatya'da, yaşanan zirai don olayı sonrasında bahçelerde incelemelerde bulunan Malatya İş İnsanları Platformu Başkanı Ahmet Özköse, "Ağaçların çoğunu gezdim, yüzde 80'inde aynı şey var. Bu bir afet yani milyon dolarlarca ihracatı olan dünyanın yüzde 90 kuru kayısı temin eden bir şehrin bu hale gelmesi gerçekten de hepimizi çok üzdü" dedi.</p>
 
-            <p>Bir zamanlar Süper Lig'de mücadele eden ancak yaşanan deprem felaketi sonrası o sezon ligde mücadelesini sürdüremeyen, sonraki sezon ise maçlara çıkamayarak küme düşen Yeni Malatyaspor, Malatya'daki futbolseverleri üzerken, Bölgesel Amatör Lig'de (BAL) şampiyonluk mücadelesi veren Malatya Yeşilyurt Spor Kulübü profesyonel lige çıkma hedefinde.</p>
+            <p>Kentte dün akşam saatlerinde başlayan kar yağışı ve hava sıcaklığının düşmesi ile birlikte kayısı ağaçları dondan etkilendi. Bahçelerde incelemelerde bulunan Malatya İş İnsanları Platformu Başkanı Ahmet Özköse, üreticinin yanında olduklarını ve bu zor günleri el birliğiyle birlikte atlatacaklarını söyledi.</p>
 
-            <p>Bölgesel Amatör Lig 3. grupta lider bulunan Yeşilyurt Spor Kulübü, Siverek Belediyespor'un 4 puan önünde yer alıyor. 2 maç fazlası bulunan Yeşilyurt Spor Kulübü rakibinin puan kaybını beklerken TFF tarafından Siverek Belediyespor'a verilen 3-0 hükmen yenilgi kararı Tahkim Kurulu'na taşındı.</p>
-
-            <p>Malatya İş İnsanları Platformu (MAİP) Genel Başkanı Ahmet Özköse bir açıklama yaparak şehrin futbol takımlarını desteklediklerini söyledi.</p>
-
-            <p>Özköse şu açıklamayı yaptı: "Bu karar Malatyalıları hayal kırıklığına uğratmış, derinden üzmüştür. Aynı zamanda alınan bu karar şampiyon olacak takımı ve diğer kulüplerin akıbetini belirlemektedir. Malatya İş İnsanları Platformu (MAİP) olarak Malatya'mızın ve spor kulüplerimizin her platformda hakkını, hukukunu savunacağımızı her daim yanında olacağımızı, Bölgesel Amatör Lig'de (BAL) şampiyonluk mücadelesi veren Yeşilyurt Spor Kulübü'nü desteklediğimizi, ilimizde tüm futbol kulüplerimizin kalkınması yolunda üzerimize düşen sorumluluk ve aidiyet duygusunun, hukuk çerçevesi içerisinde yürütülmesi konusunda savunucusu olacağımızı bildiririz."</p>
+            <p>İncelemeler sırasında üreticilerin sorunlarını da dinleyen Başkan Ahmet Özköse, "Öncelikle hepimize geçmiş olsun dileklerimi iletiyorum. Malatya Kendirli Mahallesi'ndeyiz. Dün gece don yaşandı. Malatya İş İnsanları Platformu olarak sahaya inip bahçelerde neler olup neler bitti yerinde gözlemleyelim istedik. Gerçekten gördüğünüz gibi çağala dediğimiz kayısı çağalasının simsiyah olduğunu ve yandığını görüyoruz, soğuktan tabi bir afet olmuştur. Malatya'nın tümünde hemen hemen böyle bir durum oluştu. Ağaçların çoğunu gezdim, yüzde 80'inde aynı şey var. Bu bir afet yani milyon dolarlarca ihracatı olan dünyanın yüzde 90 kuru kayısı temin eden bir şehrin bu hale gelmesi gerçekten de hepimizi çok üzdü. Bizde iş insanları olarak bu saatten sonra köylümüze nasıl destek oluruz onun plan ve projelerini yapmamız gerekiyor. Valiliğimiz şu anda sahada hasar çalışmalar yapmaktadır. Ve inşallah biran önce köylülerimize hasar tespitinden sonra gerekli tabi ki sigortalı olan bahçelerimiz olacak bununla ilgili yani sigortayla ilgili ödemeler yapılacaktır. Bizlerde Malatya İş İnsanları Platformu olarak köylülerimizin yanındayız. İnşallah bundan sonra böyle bir afet yaşamayız. Tekrardan bütün hemşerilerimize geçmiş olsun" dedi.</p>
 
             <div class="news-source">
                 <p>Bu haber <a href="https://www.dha.com.tr" target="_blank" rel="noopener noreferrer">Demirören Haber Ajansı (DHA)</a> tarafından hazırlanmıştır.</p>
