@@ -1,7 +1,3 @@
-<!-- Favicons -->
-<link href="{{ asset('img/favicon.png') }}" rel="icon">
-<link href="{{ asset('img/apple-touch-icon.png') }}" rel="apple-touch-icon">
-
 <!-- OpenLayers -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.15.1/css/ol.css">
 <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.15.1/build/ol.js"></script>

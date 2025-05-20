@@ -1,7 +1,7 @@
 <header id="header" class="header d-flex align-items-center fixed-top">
     <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
 
-        <a href="index.html" class="logo d-flex align-items-center">
+        <a href="{{ route('home') }}" class="logo d-flex align-items-center">
             <!-- Uncomment the line below if you also wish to use an image logo -->
             <!-- <img src="img/logo.png" alt=""> -->
             <h1 class="sitename">LOGO</h1>
@@ -13,7 +13,7 @@
                 <li><a href="{{ route('about') }}" class="{{ Request::routeIs('about') ? 'active' : '' }}">Hakkımızda</a></li>
                 <li><a href="{{ route('services') }}" class="{{ Request::routeIs('services') ? 'active' : '' }}">Faaliyetlerimiz</a></li>
                 <li><a href="{{ route('projects') }}" class="{{ Request::routeIs('projects') ? 'active' : '' }}">Projelerimiz</a></li>
-                <li><a href="{{ route('blog') }}" class="{{ Request::routeIs('blog') ? 'active' : '' }}">Blog</a></li>
+                <li><a href="{{ route('blogs') }}" class="{{ Request::routeIs('blogs') ? 'active' : '' }}">Blog</a></li>
                 <li class="dropdown"><a href="#"><span>Daha Fazla</span> <i
                             class="bi bi-chevron-down toggle-dropdown"></i></a>
                     <ul>

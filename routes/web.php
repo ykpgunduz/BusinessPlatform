@@ -26,6 +26,6 @@ Route::get('/projects', function () {
     return view('projects');
 })->name('projects');
 
-Route::get('/blog', function () {
-    return view('blog');
-})->name('blog');
+Route::get('/blogs', function () {
+    return view('blogs');
+})->name('blogs');
