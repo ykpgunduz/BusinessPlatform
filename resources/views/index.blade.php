@@ -91,7 +91,7 @@
                     <div class="feature-box text-center p-4" style="background: #f8f9fa; border-radius: 15px; height: 100%;">
                         <i class="bi bi-diagram-3 mb-3" style="font-size: 2.5rem; color: #0d6efd;"></i>
                         <h4 class="h5 mb-3">Güçlü Network</h4>
-                        <p class="mb-0">1000'den fazla iş insanını bir araya getiren bölgenin en büyük iş platformu</p>
+                        <p class="mb-0">Bölgenin önde gelen iş insanlarını bir araya getiren kapsamlı bir iş platformu</p>
                     </div>
                 </div>
 
